@@ -1,4 +1,4 @@
-contribute-to-wordpress-core
+membership-sites-on-wordpress
 ============================
 
 An example of using Grunt for presentations.

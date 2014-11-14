@@ -1,11 +1,11 @@
 {
-  "name": "contribute-to-wordpress-core",
-  "description": "Contribute To wordpress Core",
+  "name": "membership-sites-on-wordpress",
+  "description": "Building membership sites on WordPress",
   "version": "0.1.0",
   "author": {
-    "name": "Aaron Jorbin",
-    "email": "aaron@jorb.in",
-    "url": "http://aaron.jorb.in"
+    "name": "Morgan Estes",
+    "email": "morgan.estes@gmail.com",
+    "url": "http://morganestes.com"
   },
   "licenses": [
     {
