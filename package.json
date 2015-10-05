@@ -8,6 +8,8 @@
     "url": "http://morganestes.com"
   },
   "license": "MIT",
+  "private": true,
+  "repository": "morganestes/opinionated-git-workflows",
   "devDependencies": {
     "grunt": "~0.4.1",
     "matchdep": "~0.3.0",
