@@ -7,12 +7,7 @@
     "email": "morgan.estes@gmail.com",
     "url": "http://morganestes.com"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://mestes.mit-license.org/"
-    }
-  ],
+  "license": "MIT",
   "devDependencies": {
     "grunt": "~0.4.1",
     "matchdep": "~0.3.0",
